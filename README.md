@@ -1,2 +1,2 @@
 # SampleRPRoject
-This is just a test. This is jsut a test.
+This is just a test. This is just a test.
